@@ -1,0 +1,74 @@
+body {
+	padding-left: 11em;
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	background-color: #000000;
+	background-image: url(img/background.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:fixed;
+}
+
+#input {float:left; width:60%; font-size:50%;}
+#output { float:left; width:30%; border-left:1px solid #000;
+			padding-left:2%; margin-left:2%; font-size:50%;}
+.myG {padding:4px 0; border-bottom:1px solid #666; }
+.myG:last-child { border:none; }
+.error { color:red; font-weight:bold; }
+
+.clear { clear:both; }
+
+
+nav{ width:25%; float:left; padding-top:25px; }
+nav * { margin:0; padding:5; font-size:20px; }
+nav ul { list-style-type: none; }
+
+#main { width:75%; float:left; font-size:20px;}
+
+/*Quality Section */
+#quality {background-color:f0f0f0; width:40%; margin:5px auto;
+	padding:10px 2%; border-right:1px #870000 solid;
+	border-bottom:1px solid #870000;
+	border-top:1px solid #000; float:center;
+	border-left:1px solid #000;
+	box-shadow:3px 3px 3px #870000;}
+#quality * {margin:0; padding:0;}
+#quality ul {list-style-type:none; }
+
+/* Brands Section */
+#brands {margin: 20px 0; padding:2px 0;  }
+#brands * { margin:.0; padding:0; }
+#brands ul { list-style-type:none; }
+#brands li { float:left; width:25%; padding:0 ; text-align:center;}
+
+.myGray {float:left; padding-top:200px;}	
+
+.wrapper { padding:0 2% 2%; margin: 0 auto; max-width: 960 px;
+		width: 92%; opacity:.80; background-color:#fff; } 
+
+#logo { padding:5px 0; }
+#logo h1 { display:none; }
+
+.social { float:right; font-weight:bold; padding:0 2% 2%;}
+
+
+#studentcopy { background-color:#870000;
+	font-style:italic; width:60%; margin:0 auto;
+	padding: 15px 0; width:96%; }
+#studentcopy * { text-align:center; margin:0; padding:0;
+	font-weight:bold; color:#000000;}
+	
+/* MEDIA QUERIES */
+@media print {
+	header, nav, footer { display:none; }
+	#main { width:100%; }
+	#class { width:100%; }	
+}
+
+@media only screen and (max-width:650px) { 	nav { float:none; width:100%; }
+	#main { float:none; width:100%; }
+	h2 { width:94%; float:none; }
+	#social, #logo { float:none; width:100%; }
+	#logo, #social { text-align:center; }
+	#studentcopy { display:none; }
+}
