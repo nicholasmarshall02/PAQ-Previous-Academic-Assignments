@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miles and Kilomter Conversions", "Miles and Kilomter Conversions\Miles and Kilomter Conversions.csproj", "{DB956A44-588F-4155-8B81-202AC299560A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB956A44-588F-4155-8B81-202AC299560A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB956A44-588F-4155-8B81-202AC299560A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB956A44-588F-4155-8B81-202AC299560A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB956A44-588F-4155-8B81-202AC299560A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

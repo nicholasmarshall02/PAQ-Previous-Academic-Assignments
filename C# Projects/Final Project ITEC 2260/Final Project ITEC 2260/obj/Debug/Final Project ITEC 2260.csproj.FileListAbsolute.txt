@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.exe.config
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.exe
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.pdb
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final_Project_ITEC_2260.Form1.resources
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final_Project_ITEC_2260.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.exe
+C:\Users\Administrator\Desktop\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.pdb
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.exe.config
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.exe
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\bin\Debug\Final Project ITEC 2260.pdb
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final_Project_ITEC_2260.Form1.resources
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final_Project_ITEC_2260.Properties.Resources.resources
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.csproj.GenerateResource.cache
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.csproj.CoreCompileInputs.cache
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.exe
+C:\Users\Nic Marshall\Desktop\Github Academic Assignments\C# Projects\Final Project ITEC 2260\Final Project ITEC 2260\obj\Debug\Final Project ITEC 2260.pdb
